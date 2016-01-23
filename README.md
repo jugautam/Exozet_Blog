@@ -2,7 +2,7 @@
 
 Demo Blog application developed in Yii2
 
-import database file from "database" folder
+import database file from "database" folder.
 Database name: blog
 
 
